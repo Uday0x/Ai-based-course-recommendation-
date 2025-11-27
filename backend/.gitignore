@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/sample_loans.csv
+node_modules/
+.env

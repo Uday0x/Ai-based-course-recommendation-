@@ -1,0 +1,13 @@
+{
+  "classes": [
+    "Backend Development",
+    "Cloud & DevOps",
+    "Databases",
+    "Deep Learning",
+    "Frontend Development",
+    "Machine Learning",
+    "Mobile Development",
+    "Python Basics"
+  ],
+  "note": "small demo course recommender (dev only)"
+}
